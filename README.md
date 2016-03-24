@@ -1,0 +1,1 @@
+# This document helps Code Alliance track your availability
