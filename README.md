@@ -2,16 +2,16 @@
 
 Q1
 January - March
-Availability: Yes
+## Availability: Yes
 
 Q2 
 April - June
-Availability: Yes
+## Availability: Yes
 
 Q3 
 July - September
-Availability: Yes
+## Availability: Yes
 
 Q4
 October - December
-Availability: Yes
+## Availability: Yes
