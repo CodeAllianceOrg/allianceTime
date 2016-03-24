@@ -16,3 +16,6 @@ July - September
 Quarter 4
 October - December
 ## Availability: Yes
+
+Also, please provide a link to your LinkedIn or other online resume. Thanks!
+## Link to LinkedIn: http://www.linkedin.com/in/shantanudeepdatta
