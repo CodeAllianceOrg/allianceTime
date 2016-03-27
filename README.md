@@ -17,8 +17,7 @@ Quarter 4
 October - December
 ## Availability: Yes
 
-Please provide an email or a way to contact you:
-Best contact: deepd@benetech.org
+Please provide an email or a way to contact you. Best contact: deepd@benetech.org
 
 Also, please provide a link to your LinkedIn or other online resume. Thanks!
 ### Link to LinkedIn: http://www.linkedin.com/in/shantanudeepdatta
